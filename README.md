@@ -35,16 +35,7 @@ A large part of why I enjoy photography is because of how personal and reflectiv
 
     How did you push yourself outside of your comfort zone?
 
-    My first iterations of the program used YOLO picture detection model to achieve cropped shots of subjects (people, objects, etc). Although this approach ended up causing issues down the road and I chose to pivot, this experimentation was definitely outside my comfort zone working with a type of model I'd never touched before.
-
-    Why was this an important challenge for you?
-
-    There were definitely Github bumps along the road, but I think 
-
-
-
-
-    What are the next steps for you going forward?
+    My first iterations of the program used YOLO picture detection model to achieve cropped shots of subjects (people, objects, etc). Although this approach ended up causing issues down the road and I chose to pivot, this experimentation was definitely outside my comfort zone working with a type of model I'd never touched before. Although there were many bumps along the road using Github, this project has left me with a better understanding of how to properly use version control with my projects. Using git in practice is a lot different than knowing how git works, and so this was a valuable learning challenge in that sense that will definitely benefit how I approach future projects. The actual process running this program isn't ideal and I think it would definitely benefit from some sort of user interface to make it more accessible. Going forward, if time permits, I'd like to develop interfaces for programs/tools so it's easier to share and use them.
 
 ### Include a discussion of whether you believe your system is creative (and why or why not).
 
