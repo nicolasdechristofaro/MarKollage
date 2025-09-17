@@ -21,7 +21,7 @@ class PhotoAnalyzer:
     """Analyzes photos using advanced composition principles to detect interesting regions."""
     
     def __init__(self):
-        print("🎨 Advanced composition analyzer loaded")
+        print("Starting photo analyzer...")
     
     def detect_visual_elements(self, image: np.ndarray) -> List[Dict]:
         """Detect visual elements using advanced composition analysis."""
