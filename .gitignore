@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output directories
+output/
+batch_output/
+
+# Large image files (users should add their own)
+assets/*.jpg
+assets/*.jpeg
+assets/*.png
+# Keep assets folder but ignore its contents
+assets/*
+!assets/.gitkeep
+
+
+# Large model files (downloaded automatically)
+yolov8n.pt
+
+# OS
+.DS_Store
+Thumbs.db
