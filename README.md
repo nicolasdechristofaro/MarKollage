@@ -29,14 +29,16 @@ MarKollage is an photo collage generation program that uses computer vision and 
 
 ### Describe how the system is personally meaningful to you (at least 1 paragraph).
 
-Photography is a hobby that I've picked up in the last couple of years, 
-A large part of why I enjoy photography is because of how personal and reflective it is of the person taking the photo. There's no single or right perspective and shot to take of a subject, landscape, etc and so 
+Photography is a hobby that I've picked up in the last couple of years and was the inspiration behind the project idea. A large part of why I enjoy photography is because of how personal and reflective it is of the person taking the photo. There's no single or right perspective and shot to take of a subject, landscape, etc and so I thought it would be interesting to see what sorts of perspectives a computational system could produce. In testing the program there were lots of cases where it produced a shot that framed the environment so much differently than the original photo which was cool to see.
+
 ### Explain how working on it genuinely challenged you as a computer scientist (at least 1 paragraph).
 
 My first iterations of the program used YOLO picture detection model to achieve cropped shots of subjects (people, objects, etc). Although this approach ended up causing issues down the road and I chose to pivot, this experimentation was definitely outside my comfort zone working with a type of model I'd never touched before. Although there were many bumps along the road using Github, this project has left me with a better understanding of how to properly use version control with my projects. Using git in practice is a lot different than knowing how git works, and so this was a valuable learning challenge in that sense that will definitely benefit how I approach future projects. The actual process running this program isn't ideal and I think it would definitely benefit from some sort of user interface to make it more accessible. Going forward, if time permits, I'd like to develop interfaces for programs/tools so it's easier to share and use them.
 
 ### Include a discussion of whether you believe your system is creative (and why or why not).
 
+I think you could argue for either side, however it's hard for me to consider my system creative knowing the innerworkings of how "interesting" crops are generated, and how the sequences are produced using Markov chains. Though the sequences and crops may be novel, it doesn't feel like a product of creativity as much as it feels like just the output from some numerical inputs.
+
 ### Sources
-Cursor
+Cursor \
 https://www.geeksforgeeks.org/python/opencv-python-tutorial/
